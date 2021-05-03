@@ -9,7 +9,7 @@ sidebar:
   # Profile information
   name: Miguel Alejandro Oceguera Munguía
   tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  avatar: profile.jpg # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
   email: migueloceguera.m@gmail.com
@@ -66,8 +66,8 @@ career-profile:
   title: About Me # NO MODIFICAR
   summary: |
     I am a person who loves technology since a very young age, I love the areas where technology
-    converges with security such as artificial vision with deep learning, IoT and intelligent access
-    controls, I love mountain biking and mixing music with my turntables.
+    converges with security such as computer vision with deep learning, IoT and intelligent access
+    controls. I love mountain biking and mixing music with my turntables.
     
     I am a Telematics Engineering student, I really like to learn about programming and improve my
     skills in this discipline every day with good practices and methodologies, I really like teamwork and
