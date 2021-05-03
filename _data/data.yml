@@ -115,7 +115,7 @@ skills:
 
   toolset:
     - name: HTML
-      level: 100%
+      level: 80%
 
     - name: Ruby
       level: 60%
@@ -127,7 +127,7 @@ skills:
       level: 80%
 
     - name: Bootstrap
-      level: 100%
+      level: 80%
 
     - name: JavaScript
       level: 60%
